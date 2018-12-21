@@ -1,5 +1,7 @@
-# The Official raywenderlich.com Swift Style Guide.
+# BGS Swift Style Guide.
 ### Updated for Swift 4.2
+
+*An approach to TypeScript based off of [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)*
 
 This style guide is different from others you may see, because the focus is centered on readability for print and the web. We created this style guide to keep the code in our books, tutorials, and starter kits nice and consistent — even though we have many different authors working on the books.
 
